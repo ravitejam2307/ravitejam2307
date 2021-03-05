@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-@raviteja__muvvala-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/raviteja2307)](https://www.facebook.com/raviteja2307) 
 [![Instagram Badge](https://img.shields.io/badge/-@raviteja__muvvala-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/raviteja_2307/)](https://www.instagram.com/raviteja_2307/) 
 
-### Hi there 👋, I'm <b>Ravi Teja</b> <img src="https://github.com/ravitejamuvvala/project_MCA/blob/master/lap.jpg> username=ravitejamuvvala" />
+### Hi there 👋, I'm <b>Ravi Teja</b> <img src="https://github.com/ravitejamuvvala/project_MCA/blob/master/lap.jpg />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
@@ -22,8 +22,6 @@ Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Appli
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/c.jpg></code>
-<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/linux.jpg></code>
 <code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/java.jpg"></code>
 <code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/html%26css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
