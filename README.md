@@ -3,13 +3,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-@raviteja__muvvala-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/raviteja2307)](https://www.facebook.com/raviteja2307) 
 [![Instagram Badge](https://img.shields.io/badge/-@raviteja__muvvala-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/raviteja_2307/)](https://www.instagram.com/raviteja_2307/) 
 
-### Hi there 👋,I'm <b>Ravi Teja</b> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7G6A0m2A0N4i8_clipart-library-library-businessman-clipart-man-going-office-character-png%2F&psig=AOvVaw1G56bCalDEFVDqGAnzCmOe&ust=1615033459524000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDP3NySme8CFQAAAAAdAAAAABAJ/?username=ravitejamuvvala" />
+### Hi there 👋, I'm <b>Ravi Teja</b> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7G6A0m2A0N4i8_clipart-library-library-businessman-clipart-man-going-office-character-png%2F&psig=AOvVaw1G56bCalDEFVDqGAnzCmOe&ust=1615033459524000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDP3NySme8CFQAAAAAdAAAAABAJ/?username=ravitejamuvvala" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
 <br/>
 
-Hi, I'm Ravi Teja Muvvala, Master of Computer Applications [MCA] from RVR&JC College of Engineering. 
+Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Applications [MCA] from RVR&JC College of Engineering. 
  Beside's Computer Science, I love photography & Multimedia.
 
 **Talking about Personal Stuffs:**
@@ -22,13 +22,13 @@ Hi, I'm Ravi Teja Muvvala, Master of Computer Applications [MCA] from RVR&JC Col
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/"></code>
+<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/c.jpg></code>
+<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/linux.jpg></code>
+<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/java.jpg"></code>
+<code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/html%26css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravitejamuvvala&show_icons=true&theme=radical)
 
-
+![Dino](https://github.com/ravitejamuvvala/project_MCA/blob/master/dino1.gif)
