@@ -15,7 +15,7 @@ Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Appli
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently studying MCA.
-- 🌱 I’m currently learning SQL,Python.
+- 🌱 I’m currently learning SQL,Python,JavaScript.
 - 💬 Ask me about anything,I am happy to help
 - 📫 How to reach me: ...ravitejamuvvala23@gmail.com
 
