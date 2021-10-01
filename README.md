@@ -27,6 +27,6 @@ Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Appli
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravitejamuvvala&show_icons=true&theme=radical)
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravitejam2307&show_icons=true&theme=radical)
 
-![Dino](https://github.com/ravitejamuvvala/project_MCA/blob/master/dino1.gif)
+![Dino](https://github.com/ravitejam2307/project_MCA/blob/master/dino1.gif)
