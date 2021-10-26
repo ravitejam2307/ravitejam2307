@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-@raviteja__muvvala-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/raviteja2307)](https://www.facebook.com/raviteja2307) 
 [![Instagram Badge](https://img.shields.io/badge/-@raviteja__muvvala-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/raviteja_2307/)](https://www.instagram.com/raviteja_2307/) 
 
-### Hi there,<img src="https://github.com/ravitejam2307/Hi.gif" width="29px">, I'm [Ravi Teja](https://github.com/ravitejam2307)
+### Hi there,<img src="https://github.com/ravitejam2307/ravitejam2307/blob/main/Hi.gif width="29px">, I'm [Ravi Teja](https://github.com/ravitejam2307)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
@@ -15,7 +15,7 @@ Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Appli
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently studying MCA.
-- 🌱 I’m currently learning SQL,Python,JavaScript.
+- 🌱 I’m currently learning SQL,Java.
 - 💬 Ask me about anything,I am happy to help
 - 📫 How to reach me: ...ravitejamuvvala23@gmail.com
 
