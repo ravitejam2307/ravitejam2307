@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-@raviteja__muvvala-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/raviteja2307)](https://www.facebook.com/raviteja2307) 
 [![Instagram Badge](https://img.shields.io/badge/-@raviteja__muvvala-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/raviteja_2307/)](https://www.instagram.com/raviteja_2307/) 
 
-### Hi there 👋, I'm <b>Ravi Teja</b> 
+### Hi there 👋, I'm [Ravi Teja](https://ravitejam2307.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
@@ -26,7 +26,23 @@ Hi,Welcome to my GitHub profile. I'm Ravi Teja Muvvala, Master of Computer Appli
 <code><img height="20" src="https://github.com/ravitejamuvvala/project_MCA/blob/master/html%26css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## 📊 My Github stats
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravitejam2307&show_icons=true&theme=radical)
+<details>
+  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravitejam2307&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitejam2307&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+ 
+</details>
+
+<details>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ravitejam2307&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
+
+---
 
 ![Dino](https://github.com/ravitejam2307/project_MCA/blob/master/dino1.gif)
