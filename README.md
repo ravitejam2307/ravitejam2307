@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/ravitejam2307/ravitejam2307/blob/main/Hi.gif" width="29px">, I'm [Ravi Teja](https://github.com/ravitejam2307)
+### Hi <img src="https://github.com/ravitejam2307/ravitejam2307/blob/main/Hi.gif" width="29px">, I'm [Ravi Teja](https://github.com/ravitejam2307)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
