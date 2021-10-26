@@ -1,5 +1,5 @@
 ### Hi <img src="https://github.com/ravitejam2307/ravitejam2307/blob/main/Hi.gif" width="29px">, I'm [Ravi Teja](https://github.com/ravitejam2307)
-<p align="left"> <img src="https://ravi.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-raviteja__muvvala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravi-teja-muvvala-255743151/)](https://www.linkedin.com/in/ravi-teja-muvvala-255743151/) 
