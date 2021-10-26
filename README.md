@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-@raviteja__muvvala-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/raviteja2307)](https://www.facebook.com/raviteja2307) 
 [![Instagram Badge](https://img.shields.io/badge/-@raviteja__muvvala-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/raviteja_2307/)](https://www.instagram.com/raviteja_2307/) 
 
-### Hi there 👋, I'm [Ravi Teja](https://ravitejam2307.github.io)
+### Hi there 👋, I'm [Ravi Teja](https://github.com/ravitejam2307)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejamuvvala" alt="ravitejamuvvala" /> </p> 
 
 
